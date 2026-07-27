@@ -107,7 +107,7 @@ body{
 }
 
 .red{
-    color:#e04b52;
+    color:#52d4bf;
     font-weight:bold;
 }
 
@@ -562,29 +562,6 @@ textarea.form-control{
     margin-right:8px;
 }
 
-.social-links{
-    display:flex;
-    gap:15px;
-    margin-top:20px;
-}
-
-.social-links a{
-    width:42px;
-    height:42px;
-    border:1px solid #ddd;
-    border-radius:50%;
-    display:flex;
-    justify-content:center;
-    align-items:center;
-    text-decoration:none;
-    color:#063d3b;
-    transition:.3s;
-}
-
-.social-links a:hover{
-    background:#063d3b;
-    color:#fff;
-}
 
 /* =========================================
    RESPONSIVE
