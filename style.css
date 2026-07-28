@@ -561,7 +561,10 @@ textarea.form-control{
     color:#063d3b;
     margin-right:8px;
 }
+ .text-center{
+ margin-top: 0px;
 
+ }
 
 /* =========================================
    RESPONSIVE
